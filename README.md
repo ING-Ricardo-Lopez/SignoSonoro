@@ -31,7 +31,7 @@ bash
 pip install -r requirements.txt
 
 Ejecuta la aplicación principal:
-:/
+:/mnjinnijinjnijnijnijnijnijnji
 bash
 
 python main.py
